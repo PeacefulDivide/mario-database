@@ -65,3 +65,6 @@ echo hello PostgreSQL
 psql --peacefuldivide-freecodecamp --dbname=postgres
 psql --username=freecodecamp --dbname-postgres
 psql --username=freecodecamp --dbname=postgres
+\c second_database
+\c second_database
+psql --username=freecodecamp --dbname=postgres
